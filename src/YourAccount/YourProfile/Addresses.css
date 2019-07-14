@@ -1,0 +1,42 @@
+.Addresses{
+    padding-bottom: 20px;
+    padding-right: 20px;
+    margin-right: 75px
+}
+.AddressesPortrait{
+    padding: 10px
+}
+.AddressDetails{
+    padding: 5px
+}
+.AddAddress{
+    padding: 10px
+}
+.AddressesAdded{
+    padding: 10px;
+    font-family: 'Rubik', sans-serif;
+    height: 100%;
+}
+.NoAddresses{
+    font-family: 'Rubik', sans-serif;
+    font-size: 22px;
+    margin-top: 100px;
+    height: 100%;
+}
+.NoAddressesPortrait{
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    margin-top: 50px;
+    height: 100%;
+}
+.AddressHeading{
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px
+}
+.AddressHeadingPortrait{
+    font-family: 'Rubik', sans-serif;
+    font-size: 22px
+}
+.CloseButton{
+    text-align: right
+}

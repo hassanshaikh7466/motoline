@@ -1,0 +1,51 @@
+.CommercialVehicleUniversalItems{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center
+}
+.UniversalItemsPartCategory{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: center;
+    height: 100%;
+}
+.Textfield{
+    width: 100%;
+    font-size: 25px;
+    text-align: center
+}
+.TextfieldPortrait{
+    width: 100%;
+    font-size: 20px
+}
+.NoItems{
+    height: 80vh;
+    font-family: 'Rubik',sans-serif;
+    padding-top: 100px;
+    font-size: 40px;
+}
+.UniversalPartDetails{
+    color: #001a66;
+    padding: 20px
+}
+.UniversalPartImage{
+    padding: 50px
+}
+.UniversalDetailedItem{
+    padding: 20px
+}
+.DialogButton{
+    text-align: center
+}
+.DialogForm{
+    text-align: center
+}
+.NotLoaded{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    width: 100%;
+    text-align: center;
+    height: 100vh;
+}

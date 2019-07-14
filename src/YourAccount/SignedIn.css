@@ -1,0 +1,26 @@
+.SignOutButton{
+    text-align: right;
+    width: 100%;
+    padding: 10px
+}
+.YourAccountTabs{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-image: url('../backgrounds/back1.jpg');
+    background-size: 100%;
+    border-bottom-left-radius:25%;
+    border-bottom-right-radius:25%;
+}
+.YourAccountTabsPortrait{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-image: url('../backgrounds/back1.jpg');
+    background-size: 100vh;
+    border-bottom-left-radius:10%;
+    border-bottom-right-radius:10%;
+}
+.SignedIn{
+    height: 100%;
+}

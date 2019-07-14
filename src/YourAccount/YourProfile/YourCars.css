@@ -1,0 +1,51 @@
+.YourCarsProfile{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 75px
+}
+.YourCarsPortrait{
+    padding:10px
+}
+.YourCarsAdded{
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px;
+}
+.YourCarsAddedPortrait{
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px;
+}
+.NoCarsAdded{
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px;
+}
+.NoCarsAddedPortrait{
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px;
+    text-align: center
+}
+.NoCarsCaption{
+    font-size: 22px;
+    margin-top: 80px
+}
+.NoCarsCaptionPortrait{
+    font-size: 18px;
+    margin-top: 50px
+}
+.CarDetails{
+    padding: 5px;
+    width: 100%;
+    align-items: center
+}
+.CarDetailsPortrait{
+    padding: 5px;
+    width: 100%;
+    align-items: center
+}
+.AddCar{
+    padding: 10px;
+    text-align: center;
+    width: 100%
+}
+.CloseButton{
+    text-align: right
+}

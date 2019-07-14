@@ -1,0 +1,176 @@
+.YourCarsSection{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px
+}
+.YourCars{
+    text-align: center
+}
+.CarManufacturersSection{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    height: 100%;
+}
+.NoItems{
+    height: 80vh;
+    font-family: 'Rubik',sans-serif;
+    padding-top: 100px;
+    font-size: 40px;
+}
+.CarManufacturersSectionLess{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    height: 500px;
+}
+.CarManufacturers{
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px
+}
+.CarManufacturersPortrait{
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px
+}
+.CarModelsSection{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    height: 100%;
+}
+.CarModelsSectionLess{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    height: 500px;
+}
+.CarModels{
+    font-family: 'Rubik', sans-serif;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 10px
+}
+.CarModelsPortrait{
+    font-family: 'Rubik', sans-serif;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 7px
+}
+.Textfield{
+    width: 100%;
+    font-size: 25px;
+    text-align: center
+}
+.TextfieldPortrait{
+    width: 100%;
+    font-size: 20px
+}
+.NavigateTo{
+    font-size: 25px
+}
+.NavigateToPortrait{
+    font-size: 20px
+}
+.CarEngineOptionsSection{
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    width: 100%
+}
+.CarEngineOptionHeaderPortrait{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+}
+.CarPartCategorySection{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    height: 100%;
+}
+.CarSelectionPortrait{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+}
+.NotLoaded{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    width: 100%;
+    text-align: center;
+    height: 100vh;
+    padding-top: 40vh
+}
+.NavBar{
+    z-index: 2;
+    position: fixed;
+    text-align: center;
+    padding: 10px;
+    width: 250px
+}
+.NavBarPortrait{
+    z-index: 2;
+    position: fixed;
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+    width: 100px
+}
+.CarPartCategories{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: center
+}
+.CarPartCategoriesPortrait{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center
+}
+.CarPartDetails{
+    color: #001a66;
+    padding: 20px
+}
+.CarPartImage{
+    padding: 50px
+}
+.CarPartsView{
+    padding: 20px
+}
+.CarPartsViewPortrait{
+    padding: 10px
+}
+.DialogButton{
+    text-align: center
+}
+.DialogForm{
+    text-align: center
+}
+.PartCategories{
+    height: 80vh;
+    font-family: 'Rubik',sans-serif;
+    color: #ffffff;
+    text-align: center
+}
+.DetailedPartCategory{
+    width: 100%;
+    text-align: center
+}

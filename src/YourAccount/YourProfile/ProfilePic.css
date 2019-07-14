@@ -1,0 +1,14 @@
+.ProfilePic{
+    margin-left: 75px;
+    text-align: center
+}
+.ProfilePicPortrait{
+    padding:10px;
+    text-align: center
+}
+.UserImage{
+    border-top-left-radius:50%;
+    border-top-right-radius:50%;
+    border-bottom-left-radius:50%;
+    border-bottom-right-radius:50%;
+}

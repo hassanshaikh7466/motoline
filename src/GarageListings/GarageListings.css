@@ -1,0 +1,84 @@
+.GarageListings{
+    padding-top: 40px;
+    background-image: url('../backgrounds/back2.jpg');
+    background-size: 100%;
+    padding-bottom: 50px
+}
+.GarageListingsPortrait{
+    padding-top: 40px;
+    background-image: url('../backgrounds/back2.jpg');
+    background-size: 100vh;
+    padding-bottom: 50px
+}
+.GarageListingsHeading{
+    font-size: 35px;
+    background-image: url('../backgrounds/back1.jpg');
+    background-size: 100%;
+    color: #001a66;
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Rubik', sans-serif;
+    border-bottom-left-radius:50%;
+    border-bottom-right-radius:50%;
+    padding-top: 50px
+}
+.GarageListingsHeadingPortrait{
+    font-size: 25px;
+    background-image: url('../backgrounds/back1.jpg');
+    background-size: 100vh;
+    color: #001a66;
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Rubik', sans-serif;
+    border-bottom-left-radius:25%;
+    border-bottom-right-radius:25%;
+    padding-top: 50px
+}
+.Listings{
+    padding: 20px;
+    color: #ffffff;
+    height: 100%;
+    width: 100%
+}
+.ListingsLess{
+    padding: 20px;
+    color: #ffffff;
+    height: 100vh;
+    width: 100%
+}
+.Textfield{
+    padding-top: 10px;
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Rubik',sans-serif;
+    color:#ffffff
+}
+.TextfieldPortrait{
+    padding-top: 10px;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Rubik',sans-serif;
+    color:#ffffff
+}
+.ListingsPortrait{
+    color: #ffffff;
+    height: 100%;
+    width: 100%
+}
+.ListingsPortraitLess{
+    color: #ffffff;
+    height: 100vh;
+    width: 100%
+}
+.DetailedListing{
+    padding: 20px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px
+}
+.DetailedListingPortrait{
+    padding: 10px;
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px
+}

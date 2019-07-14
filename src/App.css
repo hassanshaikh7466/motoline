@@ -1,0 +1,46 @@
+.AppbarHeader{
+  font-family: 'Righteous',cursive;
+  color: #001a66;
+  text-align: left;
+  padding-left: 20px
+}
+.AppbarHeaderPortrait{
+  font-family: 'Righteous',cursive;
+  color: #001a66;
+  text-align: left;
+  padding-left: 10px
+}
+.LoginSignup{
+  padding-right: 20px
+}
+.AccountIcons{
+  padding-right: 20px
+}
+.DrawerButtons{
+  text-align: center
+}
+.Footer{
+  padding: 20px;
+  position: relative;
+  width: 100%;
+  height: 120px;
+  background-image: url('./backgrounds/back1.jpg');
+  background-size: 100%;
+  font-family: 'Rubik',sans-serif;
+  color: #001a66;
+  font-size: 20px;
+  text-align: center
+}
+.FooterPortrait{
+  padding-top: 30px;
+  position: relative;
+  width: 100%;
+  height: 100px;
+  background-image: url('./backgrounds/back1.jpg');
+  background-size: 100vh;
+  font-family: 'Rubik',sans-serif;
+  color: #001a66;
+  font-size: 14px;
+  text-align: center
+}
+

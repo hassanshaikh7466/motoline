@@ -1,0 +1,125 @@
+.CartHeading{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    padding-bottom: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+.CartHeadingPortrait{
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+}
+.PointsRedeem{
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Rubik',sans-serif;
+    width: 100%;
+    text-align: center;
+    padding: 10px
+}
+.PointsRedeemPortrait{
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Rubik',sans-serif;
+    width: 100%;
+    text-align: center;
+    padding: 5px
+}
+.GrandTotal{
+    font-size: 30px;
+    color:#ffffff;
+    font-family: 'Rubik',sans-serif;
+    width: 100%;
+    padding: 20px
+}
+.GrandTotalPortrait{
+    font-size: 20px;
+    color:#ffffff;
+    font-family: 'Rubik',sans-serif;
+    width: 100%;
+    padding-right: 10px
+}
+.GrandTotalDialog{
+    font-size: 22px;
+    font-family: 'Rubik',sans-serif;
+    width: 100%;
+    padding: 20px;
+    text-align: center
+}
+.GrandTotalDialogPortrait{
+    font-size: 17px;
+    font-family: 'Rubik',sans-serif;
+    width: 100%;
+    padding: 10px;
+    text-align: center
+}
+.Checkout{
+    text-align: right;
+    width: 100%;
+    padding: 20px
+}
+.CheckoutPortrait{
+    text-align: right;
+    width: 100%;
+}
+.IfEmpty{
+    width: 100%;
+    height: 70vh;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+    font-family: 'Rubik',sans-serif
+}
+.IfEmptyPortrait{
+    width: 100%;
+    height: 70vh;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Rubik',sans-serif
+}
+.ItemDetails{
+    padding: 10px
+}
+.AddressSelection{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px;
+    padding: 10px
+}
+.AddressSelectionPortrait{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    padding: 10px
+}
+.OrderReview{
+    margin-top: 70px;
+    font-family: 'Rubik', sans-serif;
+    padding: 20px;
+    font-size: 20px
+}
+.OrderReviewPortrait{
+    margin-top: 40px;
+    font-family: 'Rubik', sans-serif;
+    padding: 20px;
+    font-size: 15px
+}
+.OrderItems{
+    padding: 20px;
+    font-size: 20px
+}
+.PlaceOrder{
+    text-align: center;
+    padding-bottom: 20px
+}
+.CartItems{
+    padding: 15px
+}
+.PointsTotal{
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    text-align: center
+}

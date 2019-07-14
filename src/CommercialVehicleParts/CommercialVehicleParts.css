@@ -1,0 +1,40 @@
+.CommercialVehicleParts{
+    background-image: url('../backgrounds/back2.jpg');
+    background-size: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 100%;
+}
+.CommercialVehiclePartsPortrait{
+    background-image: url('../backgrounds/back2.jpg');
+    background-size: 100vh;
+    padding-top: 50px;
+}
+.CommercialVehiclePartsHeader{
+    color: #001a66;
+    font-weight: bolder;
+    font-family: 'Rubik', sans-serif;
+    font-size: 40px;
+    width: 100%;
+    text-align: center;
+    background-image: url('../backgrounds/back1.jpg');
+    background-size: 100%;
+    border-bottom-left-radius:25%;
+    border-bottom-right-radius:25%;
+}
+.CommercialVehiclePartsHeaderPortrait{
+    color: #001a66;
+    font-weight: bolder;
+    font-family: 'Rubik', sans-serif;
+    font-size: 27px;
+    width: 100%;
+    padding-top: 20px;
+    text-align: center;
+    background-image: url('../backgrounds/back1.jpg');
+    background-size: 100%;
+    border-bottom-left-radius:25%;
+    border-bottom-right-radius:25%;
+}
+.CommercialVehiclePartsTabs{
+    padding: 10px
+}

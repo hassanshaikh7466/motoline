@@ -1,0 +1,15 @@
+.OrdersHeading{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px;
+    color: #ffffff
+}
+.OrdersHeadingPortrait{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px;
+    color: #ffffff
+}
+.OrdersTab{
+    text-align: center;
+}
